@@ -63,10 +63,17 @@ public class ArrayManager {
                     }
                     System.out.println("El sumatorio de los números es: " + sum);
                     break;
-
+                    
+                
                 case 6: // Salir
+                   ;
+                    break;    
+
+                case 7: // Salir
                     System.out.println("Saliendo del programa...");
                     break;
+                    
+                
 
          
 
